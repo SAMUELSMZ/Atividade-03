@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+  
+
+<head>
+
+  
+
+  <meta charset="UTF-8">
+
+  
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Prática </title>
+
+  <link rel="stylesheet" href="C:\Users\hiang\Documents\Projetos WEB\práticas\stylepratica3.css">
+
+
+
+</head>
+
+  
+
+<body>
+
+  
+
+  <h1>Samuel Oliveira da Silva</h1>
+
+
+
+  <p>
+
+    
+
+    &#9973; <negrito>Menu de navegação:</negrito> <a href="#apresentacao">Apresentação</a> | <a href="#disciplinas">Disciplinas</a> | <a href="#cont_planejado">Conteúdo Planejado</a> | <a href="#oq_aprendido">O Que Foi Aprendido</a> | <a href="#links">Links Úteis</a>   
+
+    
+
+  </p>
+
+  
+
+<hr>
+
+  
+
+   <h2 id="apresentacao">Apresentação &#128528;&#128077;</h2> 
+
+    
+
+  <p>
+
+    
+
+    Olá, meu nome é <negrito>Samuel</negrito>, tenho 17 anos e sou aluno do curso <italico>Técnico Integrado em Redes de Computadores</italico> no <negrito>IFCE - <italico>Campus Tauá</italico></negrito>. Estou no terceiro ano do curso e meu objetivo é finalizar ele e entrar em alguma faculdade.
+
+    
+
+  </p>
+
+  
+
+<hr>
+
+  
+
+ <h2 id="disciplinas">Disciplinas &#128546;</h2>
+
+  
+
+  <p>No momento estou cursando as seguintes disciplinas técnicas: 
+
+    
+
+    <br>
+
+    
+
+    <ul>
+
+      <li> <marcado>Introdução ao Desenvolvimento Web (IDW)</marcado> </li>
+
+      <li>Redes sem Fio</li>
+
+      <li>Banco de Dados</li>
+
+      <li>Gerência e Segurança de Redes de Computadores (GSRC)</li>
+
+    </ul>
+
+    
+
+  </p>
+
+  
+
+<hr>
+
+  
+
+  <h2 id="cont_planejado">Conteúdo Panejado para IDW &#128128;</h2>
+
+  
+
+  <p>Essa é a sequência de conteúdos que vamos estudar em IDW:</p>
+
+  
+
+  <ol>
+
+    <li>Introdução à Internet e Web</li>
+
+    <li> <italico>HyperText Markup Language</italico> (HTML)</li>
+
+    <li> <italico>Cascading Style Sheets</italico> CSS</li>
+
+    <li> <italico>Frameworks front-end</italico> </li>
+
+  </ol>
+
+  
+
+ <hr>
+
+  
+
+  <h2 id="oq_aprendido">O Que Aprendemos Até Aqui em IDW &#129325;</h2>
+
+  
+
+  <p>Na disciplina de Introdução ao Desenvolvimento Web estudamos as tecnologias Web básicas relacionadas ao desenvolvimento de interfaces de sites e sistemas Web. Até aqui estudamos os seguintes conceitos HTML:</p>
+
+  
+
+ <ul>
+
+   <li>O que é HTML?</li>
+
+   <li>Estrutura básica de um documento HTML
+
+     <ul> <li>tag <small> <span title="Seção de cabeçalho do documento com metadados da página"> &lt;head&gt;</span> </small> </li>
+
+          <li>tag <small> <span title="Corpo do texto, o que realmente aparecerá na página">&lt;body&gt;</span> </small> </li>
+
+          <li>declaração <small> <span title="Indica o tipo de documento">&lt;!DOCTYPE hmtl&gt;</span> </small> </li>
+
+          <li>atributo lang na tag <small> <span title="Define o documento Web">&lt;html&gt; </span> </small> </li>
+
+          <li>tags <small> <span title="Tags de título, h1 é o menor e h6 o maior tamanho"> &lt;h1&gt; até &lt;h6&gt; </span> </small> </li>
+
+          <li>tag <small> <span> <span title="Define um parágrafo"> &lt;p&gt; </span> </small> </li>
+
+          <li>tags de estilo de fonte <small> <span title="Itálico"> &lt;i&gt; </span>, <span title="Negrito"> &lt;b&gt; </span>, <span title="Underline"> &lt;u&gt; </span>, <span title="Deixa as letras cortadas"> &lt;s&gt; </span>  </small> </li>
+
+          <li>tags de fechamento <small> <span title="Quebra de linha"> &lt;br&gt; </span>, <span title="Faz uma traço na linha toda"> &lt;hr&gt; </span> </small> </li>
+
+          <li>tags de ênfase e destaque <small> <span title="Define um trecho enfatizado"> &lt;em&gt; </span>, <span title="Define um trecho importante"> &lt;strong&gt; </span>, <span title="Define um trecho inserido"> &lt;ins&gt; </span>, <span title="Define um trecho excluído"> &lt;del&gt; </span>, <span title="Define um trecho sobrescrito"> &lt;sup&gt; </span>, <span title="Define um trecho subscrito"> &lt;sub&gt; </span>, <span title="Define um trecho de tamanho menor"> &lt;small&gt; </span>, <span title="Define um trecho destacado"> &lt;mark&gt; </span> </small> </li>
+
+          <li>tag <small> <span title="Faz um link para outra página ou à alguma parte da página"> &lt;a&gt; </span> </small> </li> </ul>
+
+     </ul>
+
+<hr>
+
+   <h2 id="links">Links Úteis &#128640; </h2>
+
+    
+
+      <ul id="linksu">
+
+        <li> <a href="https://github.com/lucas-lfm/idw-redes-base"target="_blank"> GitHub da Disciplina </a> </li>
+
+        <li> <a href="https://codepen.io/"target="_blank"> Codepen da Disciplina </a> </li>
+
+        <li> <a href="https://www.w3schools.com/"target="_blank"> W3Schools </a> </li>
+
+        <li> <a href="https://developer.mozilla.org/pt-BR/"target="_blank"> MDN Web Docs </a> </li>
+
+      </ul>
+
+  
+
+</body>
+
+  
+
+</html>
